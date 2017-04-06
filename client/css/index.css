@@ -14,9 +14,9 @@
 
 .btn {
   background-color: rgba(0,0,0,0);
-  border: 2px solid #b3ffb3;
+  border: 2px solid #ffff99;
   border-radius: 5px;
-  color: #b3ffb3;
+  color: #ffff99;
   padding: 10px 32px;
   height: 70px;
   font-size: 16px;
@@ -27,15 +27,15 @@
 }
 
 .btn:hover {
-  background-color: #339966;
-  color: white;
+  background-color: #ffff4d;
+  color: #4d4d00;
 }
 
 .btn1 {
-  background-color: #339966;
-  border: 2px solid #b3ffb3;
+  background-color: #ffd966;
+  border: 2px solid #4d4d00;
   border-radius: 5px;
-  color: white;
+  color: #4d4d4d;
   padding: 10px 32px;
   height: 70px;
   font-size: 16px;
@@ -45,9 +45,9 @@
   cursor: pointer;
 }
 
-.btn:hover {
-  background-color: #26734d;
-  color: #b3ffb3;
+.btn1:hover {
+  background-color: #ffbf00;
+  color: #4d4d4d;
 }
 
 .panel {
