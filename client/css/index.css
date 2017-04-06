@@ -2,6 +2,16 @@
   width: 75%;
 }
 
+.nav {
+  background-color: black;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
 .btn {
   background-color: rgba(0,0,0,0);
   border: 2px solid #b3ffb3;
@@ -46,14 +56,4 @@
   height: 80%;
   width: 80%;
   border-radius: 10px;
-}
-
-.nav {
-  background-color: black;
-  height: 100px;
-  display: flex;
-  align-items: center;
-  position: fixed;
-  top: 0;
-  z-index: 10;
 }
