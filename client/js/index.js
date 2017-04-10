@@ -4,6 +4,7 @@ $(document).ready(function(){
     indicators: false,
     height: 440
   })
+  $('#message').trigger('autoresize');
 });
 
 /*
