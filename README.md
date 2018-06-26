@@ -1,2 +1,2 @@
 # kinplus
-Product website of KIN+
+Template of kinplustape website
